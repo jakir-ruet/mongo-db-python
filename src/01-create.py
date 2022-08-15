@@ -10,6 +10,16 @@ myList = [
         'id': 1,
         'name': 'Jakir',
         'email': 'jakir@gmail.com'
+    },
+    {
+        'id': 2,
+        'name': 'Sakir',
+        'email': 'sakir@gmail.com'
+    },
+    {
+        'id': 1,
+        'name': 'Bakir',
+        'email': 'bakir@gmail.com'
     }
 ]
 
